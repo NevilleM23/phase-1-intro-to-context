@@ -1,4 +1,4 @@
-require ( './helpers.js' );
+ require ( './helpers.js' );
 
 describe("The payroll system", function () {
   describe("populates a record from an Array", function () {
